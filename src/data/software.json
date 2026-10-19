@@ -1,0 +1,74 @@
+[
+  {
+    "id": "unity",
+    "name": "Unity Hub",
+    "icon": "U",
+    "color": "slate",
+    "url": "https://unity.com/download",
+    "documentation": "https://docs.unity3d.com/hub/manual/index.html",
+    "description": "集中管理 Unity 编辑器、项目与开发环境。",
+    "instructions": "通过官方页面获取 Hub，再安装项目需要的编辑器版本。具体安装步骤后续整理。",
+    "category": "engine",
+    "keywords": ["unity", "游戏", "编辑器"]
+  },
+  {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "icon": "⌘",
+    "color": "blue",
+    "url": "https://code.visualstudio.com/download",
+    "documentation": "https://code.visualstudio.com/docs",
+    "description": "轻巧灵活的代码编辑器，让编写代码更顺手。",
+    "instructions": "选择适合操作系统的安装包。安装与扩展配置先参考官方文档。",
+    "category": "code",
+    "keywords": ["vscode", "vs code", "编程"]
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "icon": "b",
+    "color": "orange",
+    "url": "https://www.blender.org/download/",
+    "documentation": "https://docs.blender.org/manual/zh-hans/latest/",
+    "description": "从建模到动画，为游戏创作三维资产。",
+    "instructions": "从官网下载适合当前系统的安装包，入门操作参考官方手册。",
+    "category": "design",
+    "keywords": ["3d", "建模", "动画", "美术"]
+  },
+  {
+    "id": "krita",
+    "name": "Krita",
+    "icon": "K",
+    "color": "pink",
+    "url": "https://krita.org/en/download/",
+    "documentation": "https://docs.krita.org/zh_CN/",
+    "description": "专注数字绘画，绘制原画与游戏概念图。",
+    "instructions": "安装与绘画入门先参考官方手册，个人操作步骤后续补充。",
+    "category": "design",
+    "keywords": ["绘画", "原画", "美术"]
+  },
+  {
+    "id": "audacity",
+    "name": "Audacity",
+    "icon": "♫",
+    "color": "indigo",
+    "url": "https://www.audacityteam.org/download/",
+    "documentation": "https://support.audacityteam.org/",
+    "description": "录制、剪辑和处理声音，制作游戏音效。",
+    "instructions": "按操作系统选择下载入口。录音与剪辑操作可参考官方说明。",
+    "category": "media",
+    "keywords": ["声音", "录音", "音效"]
+  },
+  {
+    "id": "obs",
+    "name": "OBS Studio",
+    "icon": "◉",
+    "color": "slate",
+    "url": "https://obsproject.com/",
+    "documentation": "https://obsproject.com/kb/",
+    "description": "录制游戏画面，分享开发过程与作品演示。",
+    "instructions": "安装后可使用自动配置向导，录制设置参考官方知识库。",
+    "category": "media",
+    "keywords": ["录屏", "直播", "视频"]
+  }
+]

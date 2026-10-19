@@ -1,0 +1,8 @@
+[
+  { "id": "all", "name": "全部工具", "icon": "▦" },
+  { "id": "engine", "name": "游戏引擎", "icon": "◇" },
+  { "id": "code", "name": "代码开发", "icon": "⌘" },
+  { "id": "design", "name": "图片与设计", "icon": "▱" },
+  { "id": "media", "name": "音频与视频", "icon": "♫" },
+  { "id": "utility", "name": "效率工具", "icon": "☷" }
+]
